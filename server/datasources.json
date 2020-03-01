@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "GestorProyectos": {
+    "host": "cluster0-g3yej.mongodb.net",
+    "port": 27017,
+    "url": "mongodb+srv://lesly:Mejia1608@cluster0-g3yej.mongodb.net/GestorProyectos?retryWrites=true&w=majority",
+    "database": "GestorProyectos",
+    "password": "Mejia1608",
+    "name": "GestorProyectos",
+    "user": "lesly",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
